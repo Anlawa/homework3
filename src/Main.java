@@ -77,31 +77,5 @@ public class Main {
         var Kristina3 = 12 * Kristina1 - Kristina * 12;
         System.out.println("разница годовой зп Маши" + Masha3 + "руб/год");
         System.out.println("разница годовой зп Дениса" + Denis3 + "руб/год");
-        System.out.println("разница годовой зп Кристины" + Kristina3 + "руб/год");
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-    }
+        System.out.println("разница годовой зп Кристины" + Kristina3 + "руб/год");}
 }
